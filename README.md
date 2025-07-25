@@ -5,6 +5,8 @@ This project is for the Harvard Ventures TECH Summer Program and Rayfield System
 
 Check out these if you want to see more advanced work: [LightLink](https://github.com/HarishvinS/LightLink), [Surface Code Analysis](https://github.com/HarishvinS/surface-code-analysis)
 
+System Flow Diagram can be viewed via this [Figjam Board](https://www.figma.com/board/DnOZ4XM7jBCBWe7noqk7rS/Data-Processing-Pipeline?node-id=0-1&t=B09bYtUgUfTion8y-1)
+
 ## Summary
 
 This is a energy data processing pipeline and this documentation covers dataset selection rationale, data cleaning methodology, and feature engineering decisions. The pipeline processes solar power generation data to create a clean, feature-rich dataset suitable for machine learning applications including forecasting, anomaly detection, and performance analysis.
