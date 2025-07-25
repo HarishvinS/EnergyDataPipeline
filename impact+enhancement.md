@@ -4,15 +4,15 @@
 
 ### Forecasting
 
-Next-Hour Prediction: Use lag_1, lag_24, rolling_mean_4 with Random Forest
-Daily Peak Forecasting: Use rolling_max_24, hour, is_weekend patterns
-Weekly Planning: Use month, year, seasonal trends
+Next-Hour Prediction: Use `lag_1`, `lag_24`, `rolling_mean_4` with Random Forest
+Daily Peak Forecasting: Use `rolling_max_24`, `hour`, `is_weekend` patterns
+Weekly Planning: Use `month`, `year`, `seasonal trends`
 
 ### Anomaly Detection
 
-Real-Time Outliers: Isolation Forest on pct_change, rolling_std_4
-Performance Degradation: Change point detection on rolling_mean_24
-Equipment Failures: Statistical process control on extreme pct_change
+Real-Time Outliers: Isolation Forest on `pct_change`, `rolling_std_4`
+Performance Degradation: Change point detection on `rolling_mean_24`
+Equipment Failures: Statistical process control on extreme `pct_change`
 
 ### Automated Reporting
 
@@ -24,15 +24,15 @@ Threshold Alerts: Automated notifications when metrics exceed bounds
 
 ### Asset Performance Analyst
 
-Automated anomaly detection saves 2+ hours daily
-GPT summaries enable analysis of 10+ plants simultaneously
+Automated anomaly detection saves hours daily
+GPT summaries enable analysis of plants simultaneously
 Forecasting optimizes maintenance scheduling
 
 ### Operations Manager
 
 Real-time alerts prevent revenue loss from equipment issues
 Performance benchmarking identifies underperforming assets
-Automated reporting reduces manual work by 70%
+Automated reporting reduces manual work.
 
 ### Energy Trader
 
@@ -50,13 +50,13 @@ Raw CSV → Pipeline → processed_dataset.csv → AI Models → Insights/Alerts
 
 #### Anomaly Detection
 
-Input: pct_change, rolling_std_4, source_mean_ratio
+Input: `pct_change`, `rolling_std_4`, `source_mean_ratio`
 Model: Isolation Forest
 Output: Anomaly scores, instant alerts for scores > 0.8
 
 #### Generation Forecasting
 
-Input: lag_1, lag_24, hour, dayofweek, is_weekend
+Input: `lag_1`, `lag_24`, `hour`, `dayofweek`, `is_weekend`
 Model: Random Forest + LSTM ensemble
 Output: 1-24 hour predictions with confidence intervals
 
