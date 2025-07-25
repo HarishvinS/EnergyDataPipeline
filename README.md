@@ -1,7 +1,9 @@
 # Energy Data Pipeline Documentation
 
 ### Important Note
-This project is for the Harvard Ventures TECH Summer Program and Rayfield Systems as proof of work. This project does not bear much resemablence to my past work for this reason. Check out these if you want to see more advanced work: (LightLink)[https://github.com/HarishvinS/LightLink], (Surface Code Analysis)[https://github.com/HarishvinS/surface-code-analysis]
+This project is for the Harvard Ventures TECH Summer Program and Rayfield Systems as proof of work. This project does not bear much resemablence to my past work for this reason. 
+
+Check out these if you want to see more advanced work: [LightLink](https://github.com/HarishvinS/LightLink), [Surface Code Analysis](https://github.com/HarishvinS/surface-code-analysis)
 
 ## Summary
 
