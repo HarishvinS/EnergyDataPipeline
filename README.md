@@ -7,7 +7,7 @@ Check out these if you want to see more advanced work: [LightLink](https://githu
 
 ## Summary
 
-This is a energy data processing pipeline, covering dataset selection rationale, data cleaning methodology, and feature engineering decisions. The pipeline processes solar power generation data to create a clean, feature-rich dataset suitable for machine learning applications including forecasting, anomaly detection, and performance analysis.
+This is a energy data processing pipeline and this documentation covers dataset selection rationale, data cleaning methodology, and feature engineering decisions. The pipeline processes solar power generation data to create a clean, feature-rich dataset suitable for machine learning applications including forecasting, anomaly detection, and performance analysis.
 
 Dataset sourced from: https://www.kaggle.com/datasets/anikannal/solar-power-generation-data
 
